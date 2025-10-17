@@ -4,3 +4,7 @@ cccccccc
 asdf
 asdfasdf
 aaaaaaaaa
+
+rebase test
+aaaaaaaaa
+b
